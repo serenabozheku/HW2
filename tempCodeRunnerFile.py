@@ -1,0 +1,1 @@
+"{} has an average grade of {}".format(st, mean(vals)))
